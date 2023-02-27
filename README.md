@@ -1,3 +1,6 @@
+
+![](https://user-images.githubusercontent.com/50743783/221586102-dcd5dc84-1b28-4917-9a4b-62be94a81824.png)
+
 # Scénario de ce projet :
 
 Vous avez une entreprise de développement d'applications mobiles et votre nouveau projet concerne la création d'une application qui met en relation des vendeurs de voiture d'occasion et des potentiels clients. Vous aimeriez ajouter une nouvelle fonctionnalité à cette application, celle de de donner la possibilité aux utilisateurs de l'application de connaître le prix correcte auquel ils peuvent acheter ou vendre une voiture d'occasion d'après les caractéristiques qu'ils souhaitent afin de ne pas se faire arnaquer par des vendeurs.
@@ -5,6 +8,8 @@ Vous avez une entreprise de développement d'applications mobiles et votre nouve
 Ensuite l'application devra avertir un potentiel acheteur si la voiture qui l'intéresse est au prix "juste" et aussi avertir un vendeur si le prix auquel il veut vendre sa voiture est correcte.
 
 Après avoir collecté des données des caractéristiques de plusieurs centaines de voitures d'occasion ainsi que leurs prix de vente sur des plateformes dédiées, vous décidez donc de construire un modèle de Machine Learning capable de prédire le prix d'une voiture en fonction de ses caractéristiques.
+
+Lien de la vidéo : https://youtu.be/7-WsA_arUpg
 
 Pour en apprendre davantage sur le Machine Learning par la pratique avec Python en réalisant des projets : https://www.amazon.fr/gp/product/B08F4NZZ1C/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0
 
