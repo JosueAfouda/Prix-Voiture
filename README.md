@@ -15,11 +15,11 @@ Pour en apprendre davantage sur le Machine Learning par la pratique avec Python 
 
 Voici l'une de mes vidéos sur la création de modèles de Machine Learning avant des algorithmes comme RandomForest, SVM, etc. : https://youtu.be/idPDzWybHMw
 
-Formation gratuite en Statistique avec Python : https://afouda-datascience.com/cours/statistique-pour-la-data-science-avec-python-partie-1/
+Formation gratuite en Statistique avec Python : https://youtu.be/Ym8y122Z1us
 
 Vous pouvez aussi acheter mon livre intitulé Statistique et Simulation avec Python : Cours et Exercices corrigés disponible sur Amazon : https://www.amazon.fr/gp/product/B08S9GZYSH/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i4
 
-Formation gratuite en programmation avec Python : https://afouda-datascience.com/cours/maitriser-python-pour-la-data-science/
+Formation gratuite en programmation avec Python : https://youtu.be/LwkWwxg10IU
 
 Vous pouvez aussi acheter mon livre intitulé Savoir programmer avec le langage Python appliqué à l'analyse des données: Cours, Exercices corrigés et Projets réels disponible sur Amazon : https://www.amazon.fr/gp/product/B08CY2XNXX/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1
 
